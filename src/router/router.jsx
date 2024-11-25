@@ -26,7 +26,7 @@ import PackageDelivery from "../pages/package/package-delivery";
 import PackageBooked from "../pages/package/package-booked";
 import ConfirmPickup from "../pages/package/confirm-pickup copy.jsx";
 import ConfirmDelivery from "../pages/package/confirm-delivery";
-import Bill from "../pages/Bill/bill";
+import Bill from "../pages/bill/bill";
 import BillDetails from "../pages/bill/bill-details";
 import Activity from "../pages/activity/activity";
 import PrivacyPolicy from "../pages/static/privacy-policy";
