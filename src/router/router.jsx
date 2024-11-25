@@ -31,7 +31,7 @@ import BillDetails from "../pages/bill/bill-details";
 import Activity from "../pages/activity/activity";
 import PrivacyPolicy from "../pages/static/privacy-policy";
 import Languages from "../pages/static/languages";
-import Settings from "../pages/static/Settings";
+import Settings from "../pages/static/settings";
 import Details from "../pages/reserve/details";
 import Successful from "../pages/reserve/successful";
 import Reserve from "../pages/reserve/reserve";
